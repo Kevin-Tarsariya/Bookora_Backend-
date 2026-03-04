@@ -136,7 +136,3 @@ The backend was developed to demonstrate:
 ## 👨‍💻 Author
 
 Developed as part of a Semester Mini Project using the MERN Stack.
-
----
-
-If you want, I can also write a **combined frontend + backend main repository README** for showcasing the complete MERN project professionally.
